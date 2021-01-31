@@ -1,2 +1,2 @@
-# zexperiri
+# zexperimentum
 Captures the z themed experiments involving z series projects.
